@@ -1,4 +1,4 @@
-# T1---Implementa-o-de-Padr-o-de-Projeto
+# T1---Implementacao-de-Padrao-de-Projeto
 Exemplo do padrão Strategy em TypeScript
 
 # Descrição do Projeto
